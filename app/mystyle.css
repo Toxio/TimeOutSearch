@@ -1,0 +1,58 @@
+body {
+	background: #DAD7C7;
+}
+
+#searcharea {
+	margin: 0 auto;
+	text-align: center;
+	background: #BF996B;
+	padding: 10px;
+	width: 35%;
+	-webkit-border-radius: 10px 10px 0 0;
+	-moz-border-radius: 10px 10px 0 0;
+	border-radius: 10px 10px 0 0;
+}
+
+#searcharea label {
+	font: bold 1.3em Arial;
+	text-transform: uppercase;
+	padding-bottom:  5px;
+	color: #A61C1C;
+}
+
+#searcharea p {
+	margin: 0;
+	line-height: 1em;
+	padding-bottom: 5px;
+}
+
+#searcharea input {
+	width: 80%;
+	text-align: center;
+}
+
+#visitors, #recomendList, #avoidList {
+    margin: 0 auto;
+    width: 40%;
+}
+
+h4 {
+  margin: 0;
+}
+
+li {
+  margin-left: 40px;
+}
+
+.problemList{
+	padding-left: 15px;
+}
+
+.problemList li {
+    margin: 0;
+}
+
+button {
+    border-radius: 4px;
+    border-color: #bbbbc3;
+}
